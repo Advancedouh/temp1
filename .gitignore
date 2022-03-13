@@ -1,0 +1,5 @@
+*.csv
+*.txt
+datas/Sem2022_SubTaskA/Data/process_data.py
+datas/Sem2022_SubTaskA/SubTask1Evaluator.py
+data/*
